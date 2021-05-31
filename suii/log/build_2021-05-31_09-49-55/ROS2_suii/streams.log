@@ -1,0 +1,33 @@
+[0.237s] Invoking command in '/home/robohub/ROS2_Robohub/suii/src/ROS2_suii': PYTHONPATH=/home/robohub/ROS2_Robohub/suii/install/ROS2_suii/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ROS2_suii build --build-base /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build install --prefix /home/robohub/ROS2_Robohub/suii/install/ROS2_suii --record /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/install.log --single-version-externally-managed
+[0.443s] running egg_info
+[0.443s] creating ../../build/ROS2_suii/ROS2_suii.egg-info
+[0.443s] writing ../../build/ROS2_suii/ROS2_suii.egg-info/PKG-INFO
+[0.443s] writing dependency_links to ../../build/ROS2_suii/ROS2_suii.egg-info/dependency_links.txt
+[0.444s] writing entry points to ../../build/ROS2_suii/ROS2_suii.egg-info/entry_points.txt
+[0.444s] writing requirements to ../../build/ROS2_suii/ROS2_suii.egg-info/requires.txt
+[0.444s] writing top-level names to ../../build/ROS2_suii/ROS2_suii.egg-info/top_level.txt
+[0.445s] writing manifest file '../../build/ROS2_suii/ROS2_suii.egg-info/SOURCES.txt'
+[0.475s] reading manifest file '../../build/ROS2_suii/ROS2_suii.egg-info/SOURCES.txt'
+[0.475s] writing manifest file '../../build/ROS2_suii/ROS2_suii.egg-info/SOURCES.txt'
+[0.475s] running build
+[0.475s] running build_py
+[0.476s] creating /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build
+[0.476s] creating /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build/lib
+[0.476s] creating /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build/lib/ROS2_suii
+[0.476s] copying ROS2_suii/__init__.py -> /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build/lib/ROS2_suii
+[0.476s] running install
+[0.477s] running install_lib
+[0.477s] creating /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/lib/python3.8/site-packages/ROS2_suii
+[0.477s] copying /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build/lib/ROS2_suii/__init__.py -> /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/lib/python3.8/site-packages/ROS2_suii
+[0.478s] byte-compiling /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/lib/python3.8/site-packages/ROS2_suii/__init__.py to __init__.cpython-38.pyc
+[0.479s] running install_data
+[0.479s] creating /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/share/ament_index
+[0.479s] creating /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/share/ament_index/resource_index
+[0.479s] creating /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/share/ament_index/resource_index/packages
+[0.479s] copying resource/ROS2_suii -> /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/share/ament_index/resource_index/packages
+[0.480s] copying package.xml -> /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/share/ROS2_suii
+[0.480s] running install_egg_info
+[0.481s] Copying ../../build/ROS2_suii/ROS2_suii.egg-info to /home/robohub/ROS2_Robohub/suii/install/ROS2_suii/lib/python3.8/site-packages/ROS2_suii-0.0.0-py3.8.egg-info
+[0.481s] running install_scripts
+[0.500s] writing list of installed files to '/home/robohub/ROS2_Robohub/suii/build/ROS2_suii/install.log'
+[0.520s] Invoked command in '/home/robohub/ROS2_Robohub/suii/src/ROS2_suii' returned '0': PYTHONPATH=/home/robohub/ROS2_Robohub/suii/install/ROS2_suii/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ROS2_suii build --build-base /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/build install --prefix /home/robohub/ROS2_Robohub/suii/install/ROS2_suii --record /home/robohub/ROS2_Robohub/suii/build/ROS2_suii/install.log --single-version-externally-managed

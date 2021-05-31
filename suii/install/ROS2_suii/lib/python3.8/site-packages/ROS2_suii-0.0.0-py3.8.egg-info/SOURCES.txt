@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/ROS2_suii/ROS2_suii.egg-info/PKG-INFO
+../../build/ROS2_suii/ROS2_suii.egg-info/SOURCES.txt
+../../build/ROS2_suii/ROS2_suii.egg-info/dependency_links.txt
+../../build/ROS2_suii/ROS2_suii.egg-info/entry_points.txt
+../../build/ROS2_suii/ROS2_suii.egg-info/requires.txt
+../../build/ROS2_suii/ROS2_suii.egg-info/top_level.txt
+../../build/ROS2_suii/ROS2_suii.egg-info/zip-safe
+ROS2_suii/__init__.py
+resource/ROS2_suii
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
